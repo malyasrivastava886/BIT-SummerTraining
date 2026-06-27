@@ -71,4 +71,4 @@ print(student)
 python_students = {"Aman", "Priya", "Raj", "Neha"}
 ai_students = {"Raj", "Neha", "Vivek", "Shalu"}
 common_students = sorted(python_students & ai_students)
-print(common_students)
+print(common_students) 
